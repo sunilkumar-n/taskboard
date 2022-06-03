@@ -1,0 +1,14 @@
+.invali-feedback{
+  color: red;
+}
+
+.status-combo{
+  width: 150px;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.inline{
+  display: inline;
+  margin: 0 10px;
+}
