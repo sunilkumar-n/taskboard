@@ -9,7 +9,7 @@ const BoardList = ()=>{
                 {
             state.lists.map((list)=>{
                 return (
-                    <ListCard />
+                     <ListCard key={list.title}/>
                 )
             })
         }
